@@ -36,5 +36,5 @@ This project develops a deep learning-based image classification system capable 
 *
 
 ## 👤 Author
-**[SANDRA ADHIAMBO]**  
+**SANDRA ADHIAMBO**  
 Data Science & AI Enthusiast | KCA University
